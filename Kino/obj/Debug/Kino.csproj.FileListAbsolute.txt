@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Kino\bin\Debug\Kino.exe.config
+C:\Users\Admin\Desktop\Kino\bin\Debug\Kino.exe
+C:\Users\Admin\Desktop\Kino\bin\Debug\Kino.pdb
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.Chipta.resources
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.Form1.resources
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.KursatuvVaqt.resources
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.Properties.Resources.resources
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.Teatr.resources
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.exe
+C:\Users\Admin\Desktop\Kino\obj\Debug\Kino.pdb

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Kino\bin\Release\Kino.exe
+C:\Users\Admin\Desktop\Kino\bin\Release\Kino.exe.config
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.Chipta.resources
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.Form1.resources
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.KursatuvVaqt.resources
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.Menu.resources
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.Properties.Resources.resources
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.Teatr.resources
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.exe
+C:\Users\Admin\Desktop\Kino\obj\Release\Kino.pdb
+C:\Users\Admin\Desktop\Kino\bin\Release\Kino.pdb
